@@ -1,4 +1,4 @@
-G_PCKT_LSTNR is a firmware for Cardputer Adv that scans for the various packets involved in WIFI communications and counts them. There are four screens involved.
+GEM_PCKT_LSTNR is a firmware for Cardputer Adv that scans for the various packets involved in WIFI communications and counts them. There are four screens involved.
 
 Press "s" for the main dashboard screen
 
